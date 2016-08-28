@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SmartMute</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="MyPREFERENCES">PrefsFile</string>
+    <string name="start_time_hour">startTimeKey</string>
+    <string name="end_time_hour">endTimeKey</string>
+    <string name="start_time_minute">startTimeKey</string>
+    <string name="end_time_minute">endTimeKey</string>
+    <string name="title_activity_help">About</string>
+    <string name="help_message_one">Mobile phone users often experience unpleasant phone calls,messages or alerts late in the night or in the middle
+    of a meeting which could disturb their sleep or drag their attention away.To circumvent this problem,most of the users turn their phone to silent mode.Nevertheless,
+        some of them forget to  switch the phone back to normal mode and tend to miss important calls or messages.</string>
+    <string name="help_message_two">SmartMute has a solution.It helps the users sleep with peace of mind or attend meetings without any interference from
+    the mobile phone by setting the profile to mute for a predefined duration.</string>
+    <string name="help_message_three">Users need to set start mute time and end mute time.During this time period, the profile will be turned to mute.It will automatically
+        switch back to normal mode once the mute period expires.Users will receive notifications when the profile is changed.SmartMute also has an option to
+        repeat the settings throughout the week.</string>
+    <string name="help_message_four">SmartMute uses minimal disk space and battery requirements.There may be a minute delay if the OS is busy.</string>
+    <string name="start_text_view">Select Start Mute Time</string>
+    <string name="content_about">About</string>
+    <string name="end_text_view">Select End Mute Time</string>
+    <string name="repeat_check_box">Repeat all days</string>
+    <string name="save_button">Save Mute Times</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
